@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="AddTrans" size="6.000000 3.910204" />
+    <ImageTarget name="PagvSeg" size="6.000000 5.958449" />
+    <ImageTarget name="os-book-cover" size="5.000000 6.779661" />
+  </Tracking>
+</QCARConfig>
