@@ -121,6 +121,13 @@ public class LLMManager : MonoBehaviour
         }
         else if(questionMode.value==3){
             mode.value = 0;
+            if(pageContentJsonStructure.text_questions!=null)
+            {
+                pageContent.text = pageContentJsonStructure.text_questions;
+            }
+            else{
+                pageContent.text = "Click on the search button to get the questions";
+            }
         }
     }
 
