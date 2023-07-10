@@ -45,8 +45,8 @@ MonoBehaviour:
     thirdPartyARCoreClientDetected: 1
   playmode:
     mSequencePath: 
-    playModeType: 1
+    playModeType: 0
   webcam:
     renderTextureLayer: 30
   packageInformation:
-    ARFoundationVersion: 4.2.3
+    ARFoundationVersion: 4.2.7
